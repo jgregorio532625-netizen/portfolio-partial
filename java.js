@@ -32,8 +32,15 @@ document.addEventListener('DOMContentLoaded', function() {
         case 'ex15':
           window.open('https://jgregorio532625-netizen.github.io/Exercise15/', '_blank');
           break;
+        case 'ex16':
+          window.open('https://jgregorio532625-netizen.github.io/NumberGuessing-p1/', '_blank');
+          break;
+        case 'ex17':
+          window.open('https://jgregorio532625-netizen.github.io/NumberGuessing-p2/', '_blank');
+          break;
       }
     });
   });
 });
+
 
